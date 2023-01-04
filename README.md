@@ -1,5 +1,5 @@
-# skibblWordGuesser
-# This code will demonstrate how to guess word on skibbl game, used for education purpose only.
+# skribblWordGuesser
+# This code will demonstrate how to guess word on skribbl.io game, used for education purpose only.
 
 #HOW TO USE THIS SCRIPT :<br>
 #1. Install tampermonkey (Supported browser : Chrome, Edge, Brave)<br>
